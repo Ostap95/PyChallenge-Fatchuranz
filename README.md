@@ -6,14 +6,15 @@ Objetivo do jogo:
       Caso o jogador queira, é possível jogar em modo “God Mode”, acessível a partir do menu inicial. 
       No entanto, este modo não contribui para a best score adquirido no jogo.
       
-      Comandos disponíveis:
-            esc: entra em modo pausa
-            ‘w’ ou ‘seta para cima’: movimenta a nave para cima
-            ‘a’ ou ‘seta para esquerda’: movimenta a nave para a esquerda
-            ’s’ ou ‘seta para baixo’: movimenta a nave para baixo
-            ‘d’ ou ‘seta para direita’: movimenta a nave para a direita
+Comandos disponíveis:
+      esc: entra em modo pausa
+      ‘w’ ou ‘seta para cima’: movimenta a nave para cima
+      ‘a’ ou ‘seta para esquerda’: movimenta a nave para a esquerda
+      ’s’ ou ‘seta para baixo’: movimenta a nave para baixo
+      ‘d’ ou ‘seta para direita’: movimenta a nave para a direita
             
-      Apontando o rato para o inimigo faz com que a nave seja virada na direção do
+
+Apontando o rato para o inimigo faz com que a nave seja virada na direção do
 mesmo, permitindo um disparo mais preciso.
 O disparo de laser é feito com o botão direito do rato.
 
