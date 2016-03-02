@@ -6,8 +6,6 @@ from Bullet import Bullet
 from NewLevels import NewLevels
 from MainMenu import MainMenu
 
-
-
 CUSTOMEVENT = USEREVENT + 1
 SPANEVENT = USEREVENT + 1
 
@@ -15,8 +13,6 @@ def main():
     global FPSClOCK, DISPLAYSURF, CUSTOMEVENT
     pygame.init() # Pygame initialization
     pygame.mixer.init()
-
-
 
     DISPLAYSURF = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
     pygame.display.set_caption("Fatchuranz")
@@ -27,8 +23,6 @@ def main():
 
     mainmenu = MainMenu(DISPLAYSURF, CUSTOMEVENT, SPANEVENT)
     mainmenu.run_main_menu()
-
-
 
 if __name__ == '__main__':
     main()
