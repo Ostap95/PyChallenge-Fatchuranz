@@ -3,7 +3,8 @@ Objetivo do jogo:
       e conseguir um maior número de pontos. Cada nível tem um determinado número de inimigos que o jogador terá que enfrentar. Com o passar dos níveis a dificuldade aumenta, bem como a velocidade de movimento do jogador e a velocidade do disparo de laser. Ao fim de 16 níveis o jogo entra em modo infinito, acabando só quando o jogador ficar sem vidas.
       Cada nível tem inimigos diferentes, e a medida que o jogador sobe de nível, a sua nave muda também, reflectindo o upgrade da nave. Quando o jogo chega ao fim, caso o jogador faça new record de pontos, é lhe pedido que introduza o seu nome, para registar a sua nova pontuação.
       
-      Caso o jogador queira, é possível jogar em modo “God Mode”, acessível a partir do menu inicial. No entanto, este modo não contribui para a best score adquirido no jogo.
+      Caso o jogador queira, é possível jogar em modo “God Mode”, acessível a partir do menu inicial. 
+      No entanto, este modo não contribui para a best score adquirido no jogo.
       
       Comandos disponíveis:
             esc: entra em modo pausa
