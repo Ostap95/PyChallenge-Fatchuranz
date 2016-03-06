@@ -25,4 +25,7 @@ A música de fundo utilizada é abrangida pela licença livre. Título: Tobu - H
 O trabalho foi realizado por Ostap Kozak e Francisco Maria, alunos do curso de Engenharia de Telecomunicações e Informática do Instituto Superior Técnico TagusPark.
 Bom Jogo e Boa Sorte!
 
+Classe principal do jogo: Fatchuranz.py
+Para compilar: É preciso ter versão 3.5 de Python e Pygame suportado por esta versão.
+Código de execução: "python Fatchuranz.py"
        
